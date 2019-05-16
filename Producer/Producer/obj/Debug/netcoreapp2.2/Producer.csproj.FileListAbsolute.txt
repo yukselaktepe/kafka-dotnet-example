@@ -1,0 +1,10 @@
+D:\Projeler\KafkaExample\Producer\Producer\bin\Debug\netcoreapp2.2\Producer.deps.json
+D:\Projeler\KafkaExample\Producer\Producer\bin\Debug\netcoreapp2.2\Producer.runtimeconfig.json
+D:\Projeler\KafkaExample\Producer\Producer\bin\Debug\netcoreapp2.2\Producer.runtimeconfig.dev.json
+D:\Projeler\KafkaExample\Producer\Producer\bin\Debug\netcoreapp2.2\Producer.dll
+D:\Projeler\KafkaExample\Producer\Producer\obj\Debug\netcoreapp2.2\Producer.csproj.CoreCompileInputs.cache
+D:\Projeler\KafkaExample\Producer\Producer\obj\Debug\netcoreapp2.2\Producer.AssemblyInfoInputs.cache
+D:\Projeler\KafkaExample\Producer\Producer\obj\Debug\netcoreapp2.2\Producer.AssemblyInfo.cs
+D:\Projeler\KafkaExample\Producer\Producer\bin\Debug\netcoreapp2.2\Producer.pdb
+D:\Projeler\KafkaExample\Producer\Producer\obj\Debug\netcoreapp2.2\Producer.dll
+D:\Projeler\KafkaExample\Producer\Producer\obj\Debug\netcoreapp2.2\Producer.pdb
